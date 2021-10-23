@@ -1,6 +1,6 @@
 # Welcome to Eunice's website
 
-Hi, I am Yun-Chi,Yang.
+**Hi, I am Yun-Chi,Yang.**
 
 
 
@@ -12,10 +12,6 @@ Hi, I am Yun-Chi,Yang.
 - 喜歡吃
 - 喜歡睡
 
+[Image](C:\Users\user\Pictures\images (3))
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
