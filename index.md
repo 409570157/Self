@@ -5,9 +5,9 @@
 
 
 ## IG:yun 7 yang
-[Link](https://www.instagram.com/yun_7_yang/)
+[Click me(link)](https://www.instagram.com/yun_7_yang/)
 ## FB:楊韻琪
-[Link](https://www.facebook.com/profile.php?id=100004580893012)
+[Click me(link)](https://www.facebook.com/profile.php?id=100004580893012)
 
 - 喜歡吃
 - 喜歡睡
