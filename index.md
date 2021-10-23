@@ -12,6 +12,5 @@
 - 喜歡吃
 - 喜歡睡
 
-[Image](C:\Users\user\Pictures\images (3))
 
 
