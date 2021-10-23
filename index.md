@@ -6,14 +6,14 @@ Hi, I am Yun-Chi,Yang.
 
 # IG
 yun 7 yang
+[Link]https://www.instagram.com/yun_7_yang/
 # FB
 楊韻琪
 
-- Bulleted
-- List
+- 喜歡吃
+- 喜歡睡
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -22,10 +22,3 @@ yun 7 yang
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/409570157/Self/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
