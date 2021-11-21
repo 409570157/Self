@@ -2,6 +2,7 @@
 # Welcome to Eunice's website
 
 **Hi, I am Yun-Chi,Yang.**
+**以下是我的分享**
 [About me(link)](https://s97450.wixsite.com/website)
 
 
