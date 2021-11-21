@@ -1,5 +1,6 @@
 theme: jekyll-theme-architect
 <script>
   $(document).ready(function() {
+    $("button").addClass("animated bounce");
   });
 </script>
