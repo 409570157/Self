@@ -2,7 +2,7 @@
 # Welcome to Eunice's website
 
 **Hi, I am Yun-Chi,Yang.**
-
+[About me(link)](https://s97450.wixsite.com/website)
 
 
 ## IG:yun 7 yang
