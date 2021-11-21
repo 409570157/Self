@@ -1,3 +1,8 @@
+<script>
+  $(document).ready(function() {
+    $("button").addClass("animated bounce");
+  });
+</script>
 # Welcome to Eunice's website
 
 **Hi, I am Yun-Chi,Yang.**
